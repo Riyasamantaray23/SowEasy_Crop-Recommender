@@ -13,7 +13,7 @@ def classify(answer):
 
 
 def main():
-    st.title("SowEasy (Crop Recommender)...")
+    st.title("GraMitra (Crop Recommender)...")
     image=Image.open('cc.jpg')
     st.image(image)
     html_temp = """
