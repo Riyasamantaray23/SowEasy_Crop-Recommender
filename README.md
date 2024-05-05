@@ -1,4 +1,4 @@
-# SowEasy (Crop-Recommender)
+# GraMitra (Crop-Recommender)
 
 Crop recommendation is a crucial aspect of precision farming. In agriculture, it is critical that the recommendations made are correct and precise, as errors can result in significant material and capital loss. The project uses Streamlit to create an app that helps farmers accomplish the following goals:
 
